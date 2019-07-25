@@ -6,7 +6,7 @@ from log import logger
 
 HOST = '0.0.0.0'
 socket_port = 5858
-api_port = 5859
+api_port = 9100
 
 run_socket = Process(target=run_socket, args=(socket_port,))
 run_api = Process(target=run_web, args=(api_port,))

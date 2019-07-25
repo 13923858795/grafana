@@ -9,7 +9,7 @@ FROM python:3.6
 #FROM continuumio/miniconda3
 
 EXPOSE 5858
-EXPOSE 5859
+EXPOSE 9100
 
 WORKDIR /app
 ADD . /app

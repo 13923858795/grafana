@@ -27,11 +27,25 @@ services:
       restart_policy:
         condition: any
 
+  redis:
+    image: redis:3.2
+    command: ["redis-server"]
+    ports:
+      - 6379:6379
+    networks:
+      - tb_net
+    restart: always
+    deploy:
+      restart_policy:
+        condition: any
+
   node_exporter:
-    image: dingjinlong/node_exporter:latest   
-    command: ["python3", "app.py"]
+    image: dingjinlong/node_exporter:latest
+    build: ./node_exporter
+    command: ["python3", "run.py"]
     ports:
       - 9100:9100
+      - 5858:5858
     networks:
       - tb_net
     restart: always
