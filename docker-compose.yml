@@ -1,0 +1,45 @@
+version: "3"
+
+services:
+  grafana:
+    image: dingjinlong/grafana:latest
+    ports:
+      - 3000:3000
+    networks:
+      - tb_net
+    volumes:
+      - ./grafana/grafana.ini:/etc/grafana/grafana.ini  
+    restart: always
+    deploy:
+      restart_policy:
+        condition: any
+
+  prometheus:
+    image: prom/prometheus
+    ports:
+      - 9090:9090
+    networks:
+      - tb_net
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    restart: always
+    deploy:
+      restart_policy:
+        condition: any
+
+  node_exporter:
+    image: dingjinlong/node_exporter:latest   
+    command: ["python3", "app.py"]
+    ports:
+      - 9100:9100
+    networks:
+      - tb_net
+    restart: always
+    deploy:
+      restart_policy:
+        condition: any
+
+networks:
+  tb_net:
+volumes:
+  tb_db:
