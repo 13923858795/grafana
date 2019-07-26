@@ -16801,3 +16801,79 @@ Traceback (most recent call last):
   File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
     server.bind(('', port))
 OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 16:09:31,501 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:34,502 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:37,503 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:40,505 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:43,505 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:46,507 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:49,509 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:52,511 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:55,511 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:09:58,512 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:10:01,513 - stopped server on 
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/socket_connect.py", line 85, in <module>
+    server = ThreadedTCPServer((HOST, PORT), ThreadedTCPRequestHandler)
+NameError: name 'HOST' is not defined
+2019-07-26 16:10:02,078 - starting server on 0.0.0.0:5858.
+2019-07-26 16:10:50,490 - starting a handler for ('10.1.6.72', 1024)
+2019-07-26 16:11:17,460 - starting server on 0.0.0.0:5858.
+2019-07-26 16:11:18,286 - starting a handler for ('10.1.6.72', 1025)
+2019-07-26 16:13:15,689 - starting server on 0.0.0.0:5858.
+2019-07-26 16:13:16,274 - starting a handler for ('10.1.6.72', 1026)
+2019-07-26 16:13:54,272 - starting server on 0.0.0.0:5858.
+2019-07-26 16:13:54,971 - starting a handler for ('10.1.6.72', 1027)
+2019-07-26 16:15:27,762 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:30,763 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:33,765 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:36,765 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:39,766 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:42,768 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:45,769 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:48,771 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:51,772 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:54,773 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:15:57,774 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:16:00,947 - starting socket server on 0.0.0.0:5858.
+2019-07-26 16:16:01,663 - starting a handler for ('10.1.6.72', 1039)

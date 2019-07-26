@@ -1,5 +1,5 @@
 import time
-from socket_connect import run_socket
+from socket_connect import ThreadedTCPServer, ThreadedTCPRequestHandler
 from log import logger
 
 HOST = '0.0.0.0'
@@ -9,9 +9,9 @@ socket_port = 5858
 if __name__ == '__main__':
     while True:
         try:
-            run_socket(socket_port)
+            server = ThreadedTCPServer((HOST, socket_port), ThreadedTCPRequestHandler)
             logger.info('starting socket server on {}:{}.'.format(HOST, str(socket_port)))
-
+            server.serve_forever()
         except Exception as e:
             logger.exception('stopped socket server on {}:{}'.format(HOST, str(socket_port)))
             logger.exception(e)

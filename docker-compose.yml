@@ -1,5 +1,9 @@
 version: "3"
 
+networks:
+    tb_net:
+        external: true
+
 services:
   grafana:
     image: dingjinlong/grafana:latest
@@ -64,9 +68,3 @@ services:
     deploy:
       restart_policy:
         condition: any
-
-
-networks:
-  tb_net:
-volumes:
-  tb_db:
