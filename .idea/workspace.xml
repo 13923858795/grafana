@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml_bk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/run_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/run_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_exporter/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/log.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +38,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_exporter/app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#1#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_exporter/log.log">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -72,10 +63,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml_bk">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+              <caret line="58" selection-start-line="58" selection-end-line="69" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -110,8 +110,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tb_net</find>
       <find>BASE_DIR</find>
+      <find>tb_net</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,8 +125,8 @@
         <option value="$PROJECT_DIR$/node_exporter/run.py" />
         <option value="$PROJECT_DIR$/node_exporter/run_api.py" />
         <option value="$PROJECT_DIR$/node_exporter/Dockerfile" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/node_exporter/socket_connect.py" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -395,8 +395,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml_bk">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
-          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+          <caret line="58" selection-start-line="58" selection-end-line="69" selection-end-column="22" />
         </state>
       </provider>
     </entry>

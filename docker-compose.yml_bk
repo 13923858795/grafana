@@ -1,17 +1,20 @@
 version: "3"
 
+networks:
+    tb_net:
+        external: true
+
 services:
   grafana:
     image: dingjinlong/grafana:latest
     ports:
       - 3000:3000
     volumes:
-      - ./grafana/grafana.ini:/etc/grafana/grafana.ini
+      - ./grafana/grafana.ini:/etc/grafana/grafana.ini  
     restart: always
     networks:
       - tb_net
     deploy:
-      mode: global
       restart_policy:
         condition: any
 
@@ -65,9 +68,3 @@ services:
     deploy:
       restart_policy:
         condition: any
-
-
-networks:
-  tb_net:
-volumes:
-  tb_db:
