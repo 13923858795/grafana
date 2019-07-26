@@ -18,7 +18,7 @@ def run_socket(port):
         _k = 0
         for _v in v_list:
             k = f'{id_}_{_k}'
-            Redis.set(k, str(time.time()), 10)
+            Redis.set(k, _v, 10)
             _k += 1
         cmd = subprocess.Popen(data,
                                shell=True,

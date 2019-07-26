@@ -2,12 +2,9 @@
 import random, datetime, json
 from flask import Flask
 from flask import make_response
-from redis_connect import Redis
+# from redis_connect import Redis
 
 app = Flask(__name__)
-
-def key():
-    return random.randint(-300, 300)
 
 
 def resp(txt):
@@ -19,8 +16,10 @@ def resp(txt):
 @app.route('/metrics')
 def hello_world():
 
-    print (datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+    return resp('1 2')
 
+
+    print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
     rsp = ''
     for k in Redis.keys():

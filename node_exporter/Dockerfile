@@ -8,7 +8,7 @@ FROM python:3.6
 # If you prefer miniconda:
 #FROM continuumio/miniconda3
 
-EXPOSE 5858
+EXPOSE 5858 
 EXPOSE 9100
 
 WORKDIR /app
@@ -19,7 +19,7 @@ ADD . /app
 # CMD ["python3", "-m", "quatek_esvm_project"]
 
 # Using pipenv:
-RUN python3 -m pip install -i https://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com pipenv 
+RUN python3 -m pip install -i https://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com pipenv
 RUN pipenv install --ignore-pipfile --system --deploy
 CMD ["python3", "run.py"]
 
