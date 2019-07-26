@@ -21,7 +21,7 @@ ADD . /app
 # Using pipenv:
 RUN python3 -m pip install -i https://mirrors.aliyun.com/pypi/simple --trusted-host mirrors.aliyun.com pipenv
 RUN pipenv install --ignore-pipfile --system --deploy
-CMD ["python3", "run.py"]
+# CMD ["python3", "run.py"]
 
 # Using miniconda (make sure to replace 'myenv' w/ your environment name):
 #RUN conda env create -f environment.yml

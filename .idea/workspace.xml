@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node_exporter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_exporter/run_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_exporter/run_socket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/run.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/socket_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/socket_connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/node_exporter/redis_connect.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -125,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="3" />
     <option name="y" value="16" />
     <option name="width" value="1920" />
@@ -337,7 +332,7 @@
     <entry file="file://$PROJECT_DIR$/node_exporter/redis_connect.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
