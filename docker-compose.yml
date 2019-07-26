@@ -5,11 +5,11 @@ services:
     image: dingjinlong/grafana:latest
     ports:
       - 3000:3000
-    networks:
-      - tb_net
     volumes:
       - ./grafana/grafana.ini:/etc/grafana/grafana.ini  
     restart: always
+    networks:
+      - tb_net
     deploy:
       restart_policy:
         condition: any
@@ -18,11 +18,11 @@ services:
     image: prom/prometheus
     ports:
       - 9090:9090
-    networks:
-      - tb_net
     volumes:
       - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
     restart: always
+    networks:
+      - tb_net
     deploy:
       restart_policy:
         condition: any
@@ -64,6 +64,7 @@ services:
     deploy:
       restart_policy:
         condition: any
+
 
 networks:
   tb_net:

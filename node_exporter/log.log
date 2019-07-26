@@ -13119,3 +13119,3685 @@ Traceback (most recent call last):
   File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
     server.bind(('', port))
 OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:39:58,517 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:39:58,518 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:01,522 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:01,523 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:04,524 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:04,525 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:07,525 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:07,525 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:10,526 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:10,526 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:13,528 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:13,528 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:16,528 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:16,529 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:19,530 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:19,530 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:22,532 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:22,533 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:25,535 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:25,536 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:28,538 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:28,539 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:31,542 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:31,543 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:34,546 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:34,547 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:37,548 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:37,549 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:40,551 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:40,551 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:43,553 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:43,553 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:46,554 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:46,554 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:49,555 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:49,556 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:52,559 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:52,560 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:55,562 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:55,563 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:58,565 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:40:58,565 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:01,566 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:01,567 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:04,567 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:04,568 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:07,571 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:07,572 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:10,575 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:10,576 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:13,578 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:13,579 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:16,581 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:16,582 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:19,584 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:19,585 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:22,587 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:22,588 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:25,590 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:25,591 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:28,594 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:28,595 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:31,597 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:31,598 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:34,600 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:34,602 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:37,604 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:37,605 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:40,605 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:40,607 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:43,608 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:43,609 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:46,611 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:46,612 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:49,615 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:49,615 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:52,615 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:52,616 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:55,617 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:55,618 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:58,621 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:41:58,622 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:01,624 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:01,625 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:04,627 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:04,628 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:07,630 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:07,631 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:10,634 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:10,634 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:13,635 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:13,636 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:16,638 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:16,639 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:19,641 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:19,641 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:22,642 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:22,644 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:25,645 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:25,646 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:28,649 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:28,649 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:31,650 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:31,651 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:34,653 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:34,654 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:37,656 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:37,657 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:40,660 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:40,660 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:43,660 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:43,661 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:46,664 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:46,665 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:49,667 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:49,667 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:52,668 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:52,668 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:55,669 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:55,670 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:58,672 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:42:58,673 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:01,676 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:01,676 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:04,677 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:04,678 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:07,678 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:07,678 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:10,678 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:10,678 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:13,680 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:13,681 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:16,683 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:16,684 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:19,687 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:19,688 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:22,691 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:22,691 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:25,692 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:25,693 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:28,695 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:28,695 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:31,697 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:31,698 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:34,701 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:34,701 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:37,701 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:37,701 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:40,703 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:40,704 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:43,707 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:43,707 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:46,708 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:46,709 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:49,711 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:49,712 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:52,714 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:52,715 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:55,718 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:55,719 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:58,722 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:43:58,723 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:01,725 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:01,725 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:04,725 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:04,726 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:07,729 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:07,730 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:10,732 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:10,733 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:13,736 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:13,737 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:16,739 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:16,740 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:19,742 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:19,743 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:22,745 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:22,746 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:25,749 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:25,750 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:28,752 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:28,753 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:31,755 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:31,756 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:34,758 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:34,759 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:37,761 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:37,762 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:40,765 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:40,766 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:43,768 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:43,769 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:46,771 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:46,772 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:49,774 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:49,775 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:52,778 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:52,778 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:55,780 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:55,781 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:58,783 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:44:58,784 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:01,786 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:01,787 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:04,789 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:04,790 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:07,790 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:07,791 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:10,794 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:10,795 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:13,798 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:13,799 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:16,801 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:16,801 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:19,801 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:19,802 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:22,805 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:22,806 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:25,808 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:25,809 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:28,811 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:28,812 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:31,815 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:31,816 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:34,818 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:34,819 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:37,821 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:37,822 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:40,825 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:40,826 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:43,828 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:43,830 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:46,831 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:46,832 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:49,834 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:49,835 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:52,838 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:52,839 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:55,841 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:55,842 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:58,844 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:45:58,846 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:01,848 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:01,849 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:04,851 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:04,852 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:07,854 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:07,855 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:10,856 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:10,857 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:13,859 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:13,861 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:16,863 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:16,864 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:19,866 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:19,866 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:22,868 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:22,869 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:25,871 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:25,872 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:28,874 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:28,876 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:31,877 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:31,877 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:34,877 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:34,878 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:37,881 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:37,882 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:40,884 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:40,885 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:43,887 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:43,889 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:46,890 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:46,891 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:49,893 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:49,894 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:52,895 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:52,896 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:55,899 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:55,900 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:58,902 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:46:58,903 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:01,904 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:01,905 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:04,906 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:04,907 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:07,910 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:07,911 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:10,913 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:10,914 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:13,914 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:13,915 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:16,918 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:16,919 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:19,921 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:19,922 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:22,924 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:22,925 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:25,925 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:25,926 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:28,929 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:28,930 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:31,933 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:31,934 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:34,936 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:34,936 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:37,937 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:37,938 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:40,941 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:40,942 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:43,944 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:43,945 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:46,948 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:46,948 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:49,949 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:49,950 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:52,952 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:52,953 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:55,956 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:55,957 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:58,960 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:47:58,960 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:01,961 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:01,962 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:04,965 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:04,966 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:07,968 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:07,969 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:10,971 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:10,971 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:13,971 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:13,972 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:16,974 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:16,975 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:19,978 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:19,979 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:22,981 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:22,981 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:25,982 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:25,983 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:28,985 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:28,986 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:31,988 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:31,989 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:34,991 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:34,991 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:37,991 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:37,992 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:40,994 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:40,995 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:43,998 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:43,999 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:47,000 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:47,000 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:50,000 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:50,001 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:53,003 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:53,004 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:56,007 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:56,008 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:59,011 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:48:59,011 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:02,012 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:02,014 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:05,015 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:05,016 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:08,018 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:08,019 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:11,021 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:11,021 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:14,021 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:14,022 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:17,024 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:17,025 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:20,027 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:20,028 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:23,031 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:23,032 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:26,034 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:26,035 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:29,037 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:29,038 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:32,040 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:32,041 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:35,042 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:35,043 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:38,046 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:38,047 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:41,049 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:41,050 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:44,053 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:44,053 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:47,054 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:47,054 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:50,056 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:50,056 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:53,063 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:53,064 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:56,066 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:56,067 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:59,070 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:49:59,074 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:02,094 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:02,095 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:05,097 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:05,098 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:08,100 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:08,101 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:11,104 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:11,105 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:14,107 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:14,109 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:17,112 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:17,112 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:20,114 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:20,115 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:23,117 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:23,118 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:26,121 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:26,122 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:29,124 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:29,125 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:32,127 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:32,129 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:35,131 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:35,132 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:38,135 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:38,136 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:41,138 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:41,138 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:44,140 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:44,140 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:47,142 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:47,142 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:50,144 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:50,144 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:53,146 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:53,147 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:56,150 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:56,151 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:59,153 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:50:59,154 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:02,156 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:02,157 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:05,160 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:05,160 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:08,163 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:08,166 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:11,168 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:11,169 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:14,170 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:14,171 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:17,171 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:17,172 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:20,173 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:20,173 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:23,173 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:23,173 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:26,174 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:26,175 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:29,178 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:29,179 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:32,180 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:32,180 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:35,181 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:35,183 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:38,185 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:38,186 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:41,188 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:41,189 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:44,192 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:44,193 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:47,195 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:47,197 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:50,198 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:50,199 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:53,200 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:53,201 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:56,203 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:56,204 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:59,207 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:51:59,208 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:02,211 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:02,211 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:05,212 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:05,213 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:08,215 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:08,216 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:11,219 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:11,220 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:14,222 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:14,222 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:17,222 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:17,223 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:20,226 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:20,227 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:23,230 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:23,230 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:26,231 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:26,231 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:29,231 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:29,233 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:32,235 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:32,236 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:35,238 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:35,239 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:38,241 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:38,241 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:41,241 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:41,242 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:44,245 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:44,246 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:47,248 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:47,248 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:50,250 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:50,250 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:53,250 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:53,251 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:56,252 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:56,253 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:59,254 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:52:59,254 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:53:02,255 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:53:02,255 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:53:05,257 - stopped socket server on 0.0.0.0:5858
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2019-07-26 12:53:05,258 - [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+Traceback (most recent call last):
+  File "E:/grafana/node_exporter/run_socket.py", line 12, in <module>
+    run_socket(socket_port)
+  File "E:\grafana\node_exporter\socket_connect.py", line 8, in run_socket
+    server.bind(('', port))
+OSError: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
