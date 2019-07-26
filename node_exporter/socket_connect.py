@@ -46,8 +46,9 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                 _k = 0
                 for _v in v_list:
                     k = f'{id_}_{_k}'
-                    print(k, _v)
+                    logger.info(f'数据为{k} {_v}')
                     Redis.set(k, _v, 10)
+
                     _k += 1
 
         except Exception:

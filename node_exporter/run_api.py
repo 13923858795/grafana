@@ -1,5 +1,4 @@
 import time
-from socket_connect import run_socket
 from app import run_web
 from multiprocessing import Process
 from log import logger
