@@ -2,7 +2,7 @@
 import random, datetime, json
 from flask import Flask
 from flask import make_response
-# from redis_connect import Redis
+from redis_connect import Redis
 
 app = Flask(__name__)
 
@@ -15,9 +15,6 @@ def resp(txt):
 
 @app.route('/metrics')
 def hello_world():
-
-    return resp('1 2')
-
 
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
