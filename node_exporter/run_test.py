@@ -40,7 +40,7 @@ def run(HOST, PORT):
                 Redis.set(k, _v, 10)
 
                 _k += 1
- 
+
         # 主动关闭链接
         conn.close()
 
