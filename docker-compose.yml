@@ -42,6 +42,7 @@ services:
 
   node_exporter:
     image: dingjinlong/node_exporter:latest
+    build: ./node_exporter
     command: ["python3", "run_api.py"]
     ports:
       - 9100:9100
@@ -53,7 +54,8 @@ services:
         condition: any
 
   socket:
-    image: dingjinlong/socket:latest
+    image: dingjinlong/node_exporter:latest
+    build: ./node_exporter
     command: ["python3", "run_socket.py"]
     ports:
       - 5858:5858
