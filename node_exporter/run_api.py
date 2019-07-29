@@ -3,7 +3,7 @@ from app import run_web
 from multiprocessing import Process
 from log import logger
 
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 api_port = 9100
 
 

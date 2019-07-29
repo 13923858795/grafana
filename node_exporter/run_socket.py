@@ -2,7 +2,7 @@ import time
 from socket_connect import ThreadedTCPServer, ThreadedTCPRequestHandler
 from log import logger
 
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 socket_port = 5858
 
 
