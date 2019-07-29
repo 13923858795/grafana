@@ -1,20 +1,6 @@
 version: "3"
 
 services:
-  grafana:
-    image: dingjinlong/grafana:latest
-    ports:
-      - 3000:3000
-    volumes:
-      - ./grafana/grafana.ini:/etc/grafana/grafana.ini
-    restart: always
-    networks:
-      - tb_net
-    deploy:
-      mode: global
-      restart_policy:
-        condition: any
-
   prometheus:
     image: prom/prometheus
     ports:
@@ -55,8 +41,9 @@ services:
 
   socket:
     image: dingjinlong/node_exporter:latest
-    build: ./node_exporter
-    command: ["python3", "run_socket.py"]
+    volumes:
+      - ./grafana/node_exporter:/app
+    command: ["python3", "run_test.py"]
     ports:
       - 5858:5858
     networks:

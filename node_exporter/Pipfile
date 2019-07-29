@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 redis = "*"
 flask = "*"
+flask-socketio = "*"
 
 [requires]
 python_version = "3.6"
