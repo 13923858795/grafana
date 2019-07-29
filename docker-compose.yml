@@ -51,6 +51,18 @@ services:
       restart_policy:
         condition: any
 
+  grafana:
+    image: dingjinlong/grafana:latest
+    ports:
+      - 3000:3000
+    volumes:
+      - ./grafana/grafana.ini:/etc/grafana/grafana.ini
+    restart: always
+    networks:
+      - tb_net
+    deploy:
+      restart_policy:
+        condition: any
 
 networks:
   tb_net:
