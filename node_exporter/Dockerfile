@@ -8,9 +8,6 @@ FROM python:3.6
 # If you prefer miniconda:
 #FROM continuumio/miniconda3
 
-EXPOSE 5858
-EXPOSE 9100
-
 WORKDIR /app
 ADD . /app
 
