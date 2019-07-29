@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccce3866-b508-4ba7-ad8b-feb440d008c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket_connect.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_socket">
+  <component name="RunManager" selected="Python.run_api">
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="node_exporter" />
       <option name="INTERPRETER_OPTIONS" value="" />
