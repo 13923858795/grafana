@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccce3866-b508-4ba7-ad8b-feb440d008c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../docker-compose.yml_bk" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml_bk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket_connect.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/run_socket.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="18" selection-end-column="21" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -117,10 +119,10 @@
       <list>
         <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/run.sh" />
-        <option value="$PROJECT_DIR$/socket_connect.py" />
         <option value="$PROJECT_DIR$/redis_connect.py" />
         <option value="$PROJECT_DIR$/run_api.py" />
         <option value="$PROJECT_DIR$/run_socket.py" />
+        <option value="$PROJECT_DIR$/socket_connect.py" />
       </list>
     </option>
   </component>
@@ -368,7 +370,7 @@
     <entry file="file://$PROJECT_DIR$/run_socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="18" selection-end-column="21" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

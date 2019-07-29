@@ -45,7 +45,7 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                 v_list = [i if '\n' not in i else i[:-2] for i in data[3:]]
                 _k = 0
                 for _v in v_list:
-                    k = f'{id_}_{_k}'
+                    k = f'key_{id_}_{_k}'
                     logger.info(f'数据为{k} {_v}')
                     Redis.set(k, _v, 10)
 
