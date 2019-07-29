@@ -41,7 +41,7 @@ services:
 
   socket:
     image: dingjinlong/node_exporter:latest
-    command: ["python3", "run_test.py"]
+    command: ["python3", "run_socket.py"]
     ports:
       - 5858:5858
     networks:
