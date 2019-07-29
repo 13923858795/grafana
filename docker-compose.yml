@@ -41,8 +41,6 @@ services:
 
   socket:
     image: dingjinlong/node_exporter:latest
-    volumes:
-      - ./grafana/node_exporter:/app
     command: ["python3", "run_test.py"]
     ports:
       - 5858:5858
