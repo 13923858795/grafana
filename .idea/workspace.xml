@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="" />
+    <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml_bk" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml_bk" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/node_exporter/run_api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="17" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -49,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/node_exporter/run_socket.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="32" />
+              <caret selection-start-line="9" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -60,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml_bk">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="402">
+              <caret line="47" column="11" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -122,6 +124,7 @@
         <option value="$PROJECT_DIR$/node_exporter/socket_connect.py" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/node_exporter/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml_bk" />
       </list>
     </option>
   </component>
@@ -279,7 +282,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1743941" />
@@ -333,7 +336,7 @@
     <entry file="file://$PROJECT_DIR$/node_exporter/run_api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="17" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -346,7 +349,7 @@
     <entry file="file://$PROJECT_DIR$/node_exporter/run_socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="32" />
+          <caret selection-start-line="9" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -396,8 +399,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml_bk">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="69" column="22" lean-forward="true" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="402">
+          <caret line="47" column="11" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="11" />
         </state>
       </provider>
     </entry>
