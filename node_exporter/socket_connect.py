@@ -41,6 +41,7 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                     break
 
                 data = self.data.decode('utf-8').split(' ')
+                print(data)
                 id_ = data[1]
                 v_list = [i if '\n' not in i else i[:-2] for i in data[3:]]
                 _k = 0
