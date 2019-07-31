@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grafana/grafana.ini" beforeDir="false" afterPath="$PROJECT_DIR$/grafana/grafana.ini_bk2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/log.log" beforeDir="false" />
-    </list>
+    <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +56,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grafana/grafana.ini_bk">
+        <entry file="file://$PROJECT_DIR$/grafana/grafana.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="368" column="12" lean-forward="true" selection-start-line="368" selection-start-column="12" selection-end-line="368" selection-end-column="12" />
+              <caret line="368" column="12" selection-start-line="368" selection-start-column="12" selection-end-line="368" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -140,8 +135,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="y" value="16" />
+    <option name="x" value="-3" />
+    <option name="y" value="20" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -175,7 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new_quatek" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -432,10 +427,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grafana/grafana.ini_bk">
+    <entry file="file://$PROJECT_DIR$/grafana/grafana.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="368" column="12" lean-forward="true" selection-start-line="368" selection-start-column="12" selection-end-line="368" selection-end-column="12" />
+          <caret line="368" column="12" selection-start-line="368" selection-start-column="12" selection-end-line="368" selection-end-column="12" />
         </state>
       </provider>
     </entry>
