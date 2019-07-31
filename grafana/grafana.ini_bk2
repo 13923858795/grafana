@@ -362,14 +362,14 @@ log_queries =
 #################################### SMTP / Emailing ##########################
 [smtp]
 enabled = true
-host = smtp.qq.com:465
-user = 625124155@qq.com
+host = smtpdm.aliyun.com:465
+user = quateksh@quatekesd.com
 # If the password contains # or ; you have to wrap it with trippel quotes. Ex """#password;"""
-password = ucczrcdtngxjbaje
+password = Wzwdxksy2100Q
 ;cert_file =
 ;key_file =
 skip_verify = true
-from_address = 625124155@qq.com
+from_address = quateksh@quatekesd.com
 from_name = Grafana
 # EHLO identity in SMTP dialog (defaults to instance_name)
 ehlo_identity = dashboard.example.com
