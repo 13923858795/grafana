@@ -27,6 +27,9 @@ services:
     restart: always
     networks:
       - tb_net
+
+    volumes:
+      - tb_db:/data
     deploy:
       restart_policy:
         condition: any
