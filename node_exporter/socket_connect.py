@@ -48,8 +48,21 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                 for _v in v_list:
                     k = f'key_{id_}_{_k}'
                     logger.info(f'数据为{k} {_v}')
-                    Redis.set(k, _v, 10)
 
+                    try:
+                        v = int(_v)
+                        _v = v*5#  甲方要求  k*5   且 k*5 > 200 or k*5 < -200
+
+                        if _v > 200 or _v < -200:
+                            _v_f = str(_v)
+                        else:
+                            _v_f = ''
+
+                    except:
+                        _v_f = ''
+
+                    Redis.set(k, str(_v), 10)
+                    Redis.set(k+'_f', str(_v_f), 10)
                     _k += 1
 
         except Exception:
