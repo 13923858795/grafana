@@ -51,6 +51,8 @@ services:
     networks:
       - tb_net
     restart: always
+    environment: 
+          - TZ=Asia/Shanghai
     deploy:
       restart_policy:
         condition: any
@@ -65,6 +67,8 @@ services:
     networks:
       - tb_net
     restart: always
+    environment: 
+          - TZ=Asia/Shanghai
     deploy:
       restart_policy:
         condition: any
