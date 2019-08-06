@@ -42,6 +42,19 @@ services:
       restart_policy:
         condition: any
 
+  mysql:
+    image: dingjinlong/mysql:latest
+    volumes:
+      - $PWD/conf:/etc/mysql/conf.d
+    ports:
+      - 3306:3306
+    networks:
+      - tb_net
+    restart: always
+    deploy:
+      restart_policy:
+        condition: any
+
   socket:
     image: dingjinlong/node_exporter:latest
     volumes:

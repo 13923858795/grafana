@@ -8,6 +8,77 @@ from datetime import datetime, timedelta
 # import paho.mqtt.publish as publish
 from log import logger
 from redis_connect import Redis
+import pymysql
+
+SQL_HOST = 'mysql'
+SQL_PORT = 3306
+SQL_USER = 'root'
+SQL_PASSWORD = '123456'
+SQL_DB_NAME = 'grafana'
+
+
+class PyMysqlDB:
+    def __init__(self):
+        # 创建连接 项目 mysql
+        self.conn = pymysql.connect(host=SQL_HOST, port=SQL_PORT, user=SQL_USER, passwd=SQL_PASSWORD, db=SQL_DB_NAME)
+        # 创建游标
+        self.cursor = self.conn.cursor()
+
+
+SqlConnect = PyMysqlDB()
+conn = SqlConnect.conn
+cursor = SqlConnect.cursor
+
+
+class DB:
+    """ Mysql 直连数据库 """
+
+    @classmethod
+    def sql_first(cls, sql):
+        cursor.execute(sql)
+        model = cursor.fetchone()
+        return model
+
+    @classmethod
+    def sql_all(cls, sql):
+        cursor.execute(sql)
+        model = cursor.fetchall()
+        return model
+
+    @classmethod
+    def sql(cls, sql):
+        cursor.execute(sql)
+        conn.commit()
+        return cursor.lastrowid
+
+    @classmethod
+    def sql_insert(cls, sql):
+        cursor.execute(sql)
+        conn.commit()
+        return True
+
+
+'''  创建数据表
+CREATE TABLE `alerting_log`  (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `k` varchar(100) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL,
+  `v` float NULL DEFAULT NULL,
+  `created_at` datetime(0) NOT NULL,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE = InnoDB AUTO_INCREMENT = 104 CHARACTER SET = utf8 COLLATE = utf8_general_ci ROW_FORMAT = Dynamic;
+
+'''
+
+# sql = '''
+#      INSERT INTO test (k,v,created_at) VALUES("1", 2, NOW())
+#
+#         '''
+# a = DB.sql_insert(sql)
+#
+# print(a)
+
+
+
 
 
 class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
@@ -49,20 +120,26 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                     k = f'key_{id_}_{_k}'
                     logger.info(f'数据为{k} {_v}')
 
-                    try:
-                        v = int(_v)
-                        _v = v*5#  甲方要求  k*5   且 k*5 > 200 or k*5 < -200
-
-                        if _v > 200 or _v < -200:
-                            _v_f = str(_v)
-                        else:
-                            _v_f = ''
-
-                    except:
-                        _v_f = ''
+                    # try:
+                    #     v = int(_v)
+                    #     _v = v*5#  甲方要求  k*5   且 k*5 > 200 or k*5 < -200
+                    #
+                    #     if _v > 200 or _v < -200:
+                    #         _v_f = str(_v)
+                    #     else:
+                    #         _v_f = ''
+                    #
+                    # except:
+                    #     _v_f = ''
 
                     Redis.set(k, str(_v), 10)
-                    Redis.set(k+'_f', str(_v_f), 10)
+                    # Redis.set(k+'_f', str(_v_f), 10)
+
+                    sql = f'''   
+                         INSERT alerting_log test (k,v,created_at) VALUES("{k}", {_v}, NOW())
+                         '''
+                    DB.sql_insert(sql)
+
                     _k += 1
 
         except Exception:

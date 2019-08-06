@@ -9,6 +9,7 @@ verify_ssl = true
 redis = "*"
 flask = "*"
 flask-socketio = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.6"
