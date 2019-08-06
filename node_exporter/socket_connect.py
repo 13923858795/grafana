@@ -136,7 +136,7 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                     # Redis.set(k+'_f', str(_v_f), 10)
 
                     sql = f'''   
-                         INSERT alerting_log test (k,v,created_at) VALUES("{k}", {_v}, NOW())
+                         INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", {_v}, NOW())
                          '''
                     DB.sql_insert(sql)
 
