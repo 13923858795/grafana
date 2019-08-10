@@ -114,7 +114,8 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                 data = self.data.decode('utf-8').split(' ')
                 print(data)
                 id_ = data[1]
-                v_list = [i if '\n' not in i else i[:-2] for i in data[3:]]
+                # v_list = [i if '\n' not in i else i[:-2] for i in data[3:]]
+                v_list = [i if '\n' not in i else i[:-2] for i in data[2:]]
                 _k = 0
                 for _v in v_list:
                     k = f'key_{id_}_{_k}'
