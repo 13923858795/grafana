@@ -112,32 +112,19 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                     break
 
                 data = self.data.decode('utf-8').split(' ')
-                print(data)
+                logger.info(data)
                 id_ = data[0]
-                # v_list = [i if '\n' not in i else i[:-2] for i in data[3:]]
+
                 v_list = [i if '\n' not in i else i[:-2] for i in data[2:]]
                 _k = 0
                 for _v in v_list:
                     k = f'key_{id_}_{_k}'
                     logger.info(f'数据为{k} {_v}')
 
-                    # try:
-                    #     v = int(_v)
-                    #     _v = v*5#  甲方要求  k*5   且 k*5 > 200 or k*5 < -200
-                    #
-                    #     if _v > 200 or _v < -200:
-                    #         _v_f = str(_v)
-                    #     else:
-                    #         _v_f = ''
-                    #
-                    # except:
-                    #     _v_f = ''
-
                     Redis.set(k, str(_v), 10)
-                    # Redis.set(k+'_f', str(_v_f), 10)
 
                     sql = f'''   
-                         INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", {_v}, NOW())
+                         INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", '{_v}', NOW())
                          '''
                     DB.sql_insert(sql)
 
