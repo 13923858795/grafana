@@ -46,7 +46,7 @@ services:
   mysql:
     image: dingjinlong/mysql:latest
     volumes:
-      - ./mysql/mysql:/var/lib/mysql
+      - ./data/mysql/mysql:/var/lib/mysql
     ports:
       - 3306:3306
     networks:
