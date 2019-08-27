@@ -7,7 +7,7 @@ services:
       - 9090:9090
     volumes:
       - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
-      - ./prometheus/data/prometheus:/prometheus
+      - ./data/prometheus:/prometheus
       - tb_db:/data
     restart: always
     networks:
@@ -80,9 +80,8 @@ services:
       - 3000:3000
     volumes:
       - ./grafana/grafana.ini:/etc/grafana/grafana.ini
-      - ./grafana/data/grafana:/var/lib/grafana
-      - ./grafana/etc/grafana:/etc/grafana
-
+      - ./data/grafana/lib/grafana:/var/lib/grafana
+      - ./data/grafana/etc/grafana:/etc/grafana
 
     restart: always
     networks:
