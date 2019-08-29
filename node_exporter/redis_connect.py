@@ -1,6 +1,5 @@
-import redis, time
+import redis, config
 
-# Redis = redis.StrictRedis(host='10.1.6.67', port=6379)
-Redis = redis.StrictRedis(host='redis', port=6379)
+Redis = redis.StrictRedis(host=config.REDIS_HOST, port=config.REDIS_PORT)
 
 

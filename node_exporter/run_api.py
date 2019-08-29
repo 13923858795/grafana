@@ -1,10 +1,10 @@
-import time
+import time, config
 from app import run_web
 from multiprocessing import Process
 from log import logger
 
-HOST = '127.0.0.1'
-api_port = 9100
+HOST = '0.0.0.0'
+api_port = config.API_PORT
 
 
 if __name__ == '__main__':

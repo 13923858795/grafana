@@ -1,0 +1,23 @@
+
+API_PORT = 9100
+
+REDIS_HOST = 'redis'
+REDIS_PORT = 6379
+
+SQL_HOST = 'mysql'
+SQL_PORT = 3306
+SQL_USER = 'root'
+SQL_PASSWORD = '123456'
+SQL_DB_NAME = 'grafana'
+
+
+# API_PORT = 9100
+#
+# REDIS_HOST = '10.1.6.116'
+# REDIS_PORT = 6379
+#
+# SQL_HOST = '10.1.6.116'
+# SQL_PORT = 3306
+# SQL_USER = 'root'
+# SQL_PASSWORD = '123456'
+# SQL_DB_NAME = 'grafana'

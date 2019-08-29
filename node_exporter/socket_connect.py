@@ -1,4 +1,4 @@
-import socketserver
+import socketserver, config, time
 import json
 import os
 import sys
@@ -10,11 +10,11 @@ from log import logger
 from redis_connect import Redis
 import pymysql
 
-SQL_HOST = 'mysql'
-SQL_PORT = 3306
-SQL_USER = 'root'
-SQL_PASSWORD = '123456'
-SQL_DB_NAME = 'grafana'
+SQL_HOST = config.SQL_HOST
+SQL_PORT = config.SQL_PORT
+SQL_USER = config.SQL_USER
+SQL_PASSWORD = config.SQL_PASSWORD
+SQL_DB_NAME = config.SQL_DB_NAME
 
 
 class PyMysqlDB:
@@ -104,35 +104,47 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
         return 0
 
     def handle(self):
-        try:
             while True:
                 self.data = self.request.recv(1024)
-
                 if not self.data:
                     break
 
-                data = self.data.decode('utf-8').split(' ')
-                logger.info(data)
-                id_ = data[0]
+                data = self.data.decode('utf-8')
+                try:
+                    self.func_data(data)
+                except BaseException as e:
+                    logger.info(e)
 
-                v_list = [i if '\n' not in i else i[:-2] for i in data[2:]]
-                _k = 0
-                for _v in v_list:
-                    k = f'key_{id_}_{_k}'
-                    logger.info(f'数据为{k} {_v}')
+    def func_data(self, data):
+        for _data in data.split('\r\n')[:1]:
+            _d = _data.split(" ")
+            if _d[0] == 'DATA':
+                id_ = _d[1]
+                v_list = _d[3:]
+            else:
+                id_ = _d[0]
+                v_list = _d[2:]
+            _k = 0
+            for _v in v_list:
+                k = f'key_{id_}_{_k}'
+                logger.info(f'数据为{k} {_v}')
+                if id_ != '0':
+                    print(self.data)
+                Redis.set(k, str(_v), 10)
 
-                    Redis.set(k, str(_v), 10)
-
-                    sql = f'''   
-                         INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", '{_v}', NOW())
-                         '''
+                sql = f'''INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", '{_v}', NOW())
+                                  '''
+                try:
                     DB.sql_insert(sql)
+                except:
+                    print(sql)
+                _k += 1
 
-                    _k += 1
 
-        except Exception:
-            logger.exception('from ' + str(self.client_address))
-            raise Exception('threading handler error')
+
+
+
+
 
     def finish(self):
         super(ThreadedTCPRequestHandler, self).finish()

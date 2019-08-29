@@ -1,4 +1,4 @@
-import time
+import time, config
 from socket_connect import ThreadedTCPServer, ThreadedTCPRequestHandler
 from log import logger
 
