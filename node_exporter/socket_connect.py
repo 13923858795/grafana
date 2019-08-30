@@ -131,20 +131,12 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                 if id_ != '0':
                     print(self.data)
                 Redis.set(k, str(_v), 10)
-
-                sql = f'''INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", '{_v}', NOW())
-                                  '''
+                sql = f'''INSERT INTO alerting_log (k,v,created_at) VALUES("{k}", '{_v}', NOW())'''
                 try:
                     DB.sql_insert(sql)
                 except:
                     print(sql)
                 _k += 1
-
-
-
-
-
-
 
     def finish(self):
         super(ThreadedTCPRequestHandler, self).finish()
