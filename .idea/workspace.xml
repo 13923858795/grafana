@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7bcaa96d-b9b8-4668-b0fa-d228b1477d8c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_exporter/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/log.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_exporter/socket_connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/socket_connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_exporter/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/node_exporter/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,34 +16,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_exporter/config.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_exporter/socket_connect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="132" selection-start-line="132" selection-end-line="137" selection-end-column="30" />
+            <state relative-caret-position="858">
+              <caret line="120" column="31" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_exporter/log.py">
+        <entry file="file://$PROJECT_DIR$/node_exporter/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_exporter/Pipfile">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -67,13 +52,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/node_exporter/run_socket.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_exporter/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="64" />
+              <folding>
+                <element signature="e#1#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,8 +88,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="817">
-              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+            <state relative-caret-position="1577">
+              <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prometheus/prometheus.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -121,14 +127,15 @@
         <option value="$PROJECT_DIR$/docker-compose.yml_bk" />
         <option value="$PROJECT_DIR$/node_exporter/app.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/node_exporter/test.py" />
         <option value="$PROJECT_DIR$/node_exporter/run_socket.py" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/node_exporter/socket_connect.py" />
+        <option value="$PROJECT_DIR$/node_exporter/config.py" />
+        <option value="$PROJECT_DIR$/node_exporter/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="7" />
     <option name="y" value="4" />
     <option name="width" value="1920" />
@@ -146,6 +153,21 @@
             <path>
               <item name="grafana" type="b2602c69:ProjectViewProjectNode" />
               <item name="grafana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grafana" type="462c0819:PsiDirectoryNode" />
+              <item name="grafana" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grafana" type="462c0819:PsiDirectoryNode" />
+              <item name="node_exporter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="grafana" type="b2602c69:ProjectViewProjectNode" />
+              <item name="grafana" type="462c0819:PsiDirectoryNode" />
+              <item name="prometheus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Bash.run.sh">
+  <component name="RunManager" selected="Python.test">
     <configuration name="run.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
       <module name="grafana" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,27 +207,6 @@
       <option name="PARENT_ENVS" value="true" />
       <option name="SCRIPT_NAME" value="E:\grafana\run.sh" />
       <option name="PARAMETERS" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="redis_connect" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="grafana" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/node_exporter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/node_exporter/redis_connect.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -271,13 +272,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="grafana" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/node_exporter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/node_exporter/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Bash.run.sh" />
         <item itemvalue="Python.run_api" />
         <item itemvalue="Python.run_socket" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.redis_connect" />
       </list>
     </recent_temporary>
   </component>
@@ -295,15 +317,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="7" y="4" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17281349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17428268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51084596" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20824525" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,13 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prometheus/prometheus.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_exporter/Dockerfile_bk">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -380,26 +394,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_exporter/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="54" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_exporter/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#1#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_exporter/config.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_exporter/log.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -407,6 +401,13 @@
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_exporter/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -419,23 +420,6 @@
     <entry file="file://$PROJECT_DIR$/node_exporter/log.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_exporter/run_api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_exporter/run_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml_bk">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -445,15 +429,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="817">
-          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        <state relative-caret-position="1577">
+          <caret line="83" column="47" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prometheus/prometheus.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_exporter/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="18" selection-end-column="64" />
+          <folding>
+            <element signature="e#1#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_exporter/run_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_exporter/socket_connect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="132" selection-start-line="132" selection-end-line="137" selection-end-column="30" />
+        <state relative-caret-position="858">
+          <caret line="120" column="31" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_exporter/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_exporter/run_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

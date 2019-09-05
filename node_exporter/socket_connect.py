@@ -110,6 +110,8 @@ class ThreadedTCPRequestHandler(socketserver.BaseRequestHandler):
                     break
 
                 data = self.data.decode('utf-8')
+                data = data.strip()
+                logger.info(data)
                 try:
                     self.func_data(data)
                 except BaseException as e:
